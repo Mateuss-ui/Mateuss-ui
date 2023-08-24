@@ -1,6 +1,6 @@
 # 😎 Oi, eu sou Caique Mateus.
 🎓 Atualmente cursando Ciências da Computação na Universidade Barão de Maua. <br>
-⭐ Conhecimentos : JavaScript. <br>
+⭐ Conhecimentos : JavaScript, C++. <br>
 ✍️ Estudando: Html,css.
 
 <div style="display: inline_block"><br>
