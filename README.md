@@ -1,7 +1,7 @@
-# 😎 Oi, eu sou Caique Mateus.
+# 😎 Oi, eu sou Caique Fonseca.
 🎓 Atualmente cursando Ciências da Computação na Universidade Barão de Maua. <br>
-⭐ Conhecimentos : JavaScript, C++. <br>
-✍️ Estudando: Html,css.
+⭐ Conhecimentos : JavaScript, Html,css. <br>
+✍️ Estudando: React, Pl/Sql
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
