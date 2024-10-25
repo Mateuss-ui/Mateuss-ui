@@ -1,6 +1,6 @@
 # 😎 Oi, eu sou Caique Fonseca.
 🎓 Atualmente cursando Ciências da Computação na Universidade Barão de Maua. <br>
-⭐ Conhecimentos : JavaScript, Html,css. <br>
+⭐ Conhecimentos : JavaScript, Html, Css. <br>
 ✍️ Estudando: React, Pl/Sql
 
 <div style="display: inline_block"><br>
