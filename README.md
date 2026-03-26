@@ -1,7 +1,7 @@
 # 😎 Oi, eu sou Caique Fonseca.
 🎓 Formado em Ciências da Computação na Universidade Barão de Maua. <br>
-⭐ Conhecimentos : JavaScript, Html, Css. <br>
-✍️ Estudando: React, Pl/Sql
+⭐ Conhecimentos : JavaScript, Html, Css, React. <br>
+✍️ Estudando: Docker
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
